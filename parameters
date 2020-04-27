@@ -6,7 +6,7 @@ APPLICATION_ADMIN_PASSWORD=smartvm
 
 # Domain name for the external route
 # Used for external authentication configuration
-APPLICATION_DOMAIN=
+APPLICATION_DOMAIN=portal5.multinuvem.com.br
 
 # Database connection information
 # Containerized database pod will be deployed if hostname is not provided
